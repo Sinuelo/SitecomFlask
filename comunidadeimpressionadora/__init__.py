@@ -20,8 +20,8 @@ login_manager.login_message = 'Faça login para continuar'
 login_manager.login_message_category = 'alert-info'
 
 
-from comunidadeimpressionadora import routes
 from comunidadeimpressionadora import models
+
 
 engine = sqlalchemy.create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
 inspection = sqlalchemy.inspect(engine)
@@ -32,3 +32,6 @@ if not inspection.has_table('post', schema='dbo'):
         print('Base de Dados criada com sucesso')
 else:
     print('Base de dados já existe')
+
+
+from comunidadeimpressionadora import routes
