@@ -21,14 +21,14 @@
                     {% if 'Não Informado' in current_user.cursos %}
                     <div class="d-flex flex-column">
 
-                        <span class="articles">Cursos</span>
+                        <span class="articles" style="color:black">Cursos</span>
                         <span class="number1">0</span>
 
                     </div>
                     {% else %}
                     <div class="d-flex flex-column">
 
-                        <span class="articles ms-4" style="color: black">Cursos</span>
+                        <span class="articles ms-4" style="color:black">Cursos</span>
                         <span class="number1 ms-4" >{{ current_user.cursos.count(';') + 1 }}</span>
 
                     </div>
