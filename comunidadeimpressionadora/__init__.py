@@ -1,3 +1,4 @@
+import sqlalchemy
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
@@ -20,3 +21,14 @@ login_manager.login_message_category = 'alert-info'
 
 
 from comunidadeimpressionadora import routes
+from comunidadeimpressionadora import models
+
+engine = sqlalchemy.create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
+inspection = sqlalchemy.inspect(engine)
+if not inspection.has_table('post', schema='dbo'):
+    with app.app_context():
+        database.drop_all()
+        database.create_all()
+        print('Base de Dados criada com sucesso')
+else:
+    print('Base de dados já existe')
