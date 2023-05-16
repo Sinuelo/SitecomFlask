@@ -10,7 +10,7 @@ app.config["SECRET_KEY"] = 'f25b71426615341d9f9138c716b24b8f'
 if os.getenv("DATABASE_URL"):
     app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv("DATABASE_URL")
 else:
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///comunidade.db'
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:bTbVRyywAhAyN7OdqWvo@containers-us-west-45.railway.app:7320/railway'
 
 database = SQLAlchemy(app)
 bcrypt = Bcrypt(app)
