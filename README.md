@@ -1,8 +1,22 @@
 # sitecomflask
-Site criado usando Flask, Python e Bootstrap, no qual podemos criar um usuário, fazer login, trocar foto de perfil, criar e deletar posts.
+# Esse site é uma rede social para alunos dos cursos da Hashtag Treinamentos. Nele, é possível criar um usuário (assim como excluí-lo), fazer upload de foto de perfil, escolher quais cursos está fazendo, assim como criar e deletar posts.
+
+## Nesse projeto, foram usados:
+  - HTML
+  - CSS
+  - Python
+  - Flask
+  
+## Está hospedado de forma gratuita no railway, e está acessível pelo link : https://sitecomflask-production.up.railway.app/
+
 
 ## Homepage 
 ![Captura de tela 2023-05-16 120322](https://github.com/Sinuelo/sitecomflask/assets/98895433/36159431-893c-49bc-9415-e12ad07501ed) 
+
+
+## Tela de Login
+![image](https://github.com/Sinuelo/sitecomflask/assets/98895433/2b03f2ce-fd87-4b68-b33d-6f1fb5a6cbce)
+
 
 ## Página de criação de posts:
 ![criar post](https://github.com/Sinuelo/sitecomflask/assets/98895433/d3e3b866-489f-44ac-b3b3-ed2805327bcf) 
