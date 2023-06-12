@@ -6,7 +6,7 @@ from flask_login import LoginManager
 import os
 
 app = Flask(__name__)
-app.config["SECRET_KEY"] = os.getenv('PGPASSWORD')
+app.config["SECRET_KEY"] = 'f25b71426615341d9f9138c716b24b8f'
 if os.getenv("DATABASE_URL"):
     app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv("DATABASE_URL")
 else:
