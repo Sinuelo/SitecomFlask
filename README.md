@@ -1,11 +1,10 @@
-# sitecomflask
 # Esse site é uma rede social para alunos dos cursos da Hashtag Treinamentos. Nele, é possível criar um usuário (assim como excluí-lo), fazer upload de foto de perfil, escolher quais cursos está fazendo, assim como criar e deletar posts.
 
 ## Nesse projeto, foram usados:
-  - HTML
-  - CSS
-  - Python
-  - Flask
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   
 ## Está hospedado de forma gratuita no railway, e está acessível pelo link : https://sitecomflask-production.up.railway.app/
 
