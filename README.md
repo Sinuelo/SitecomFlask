@@ -5,7 +5,8 @@
   - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  
+
+# Infelizmente, por conta de mudanças na política de preços do Railway, o mesmo não mais oferece um plano gratuito, portanto, o link abaixo não funciona mais
 ## Está hospedado de forma gratuita no railway, e está acessível pelo link : https://sitecomflask-production.up.railway.app/
 
 
