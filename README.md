@@ -1,15 +1,17 @@
-# Esse site é uma rede social para alunos dos cursos da Hashtag Treinamentos. Nele, é possível criar um usuário (assim como excluí-lo), fazer upload de foto de perfil, escolher quais cursos está fazendo, assim como criar e deletar posts.
+# :hammer_and_wrench: Descrição
+##  Esse site é uma rede social para alunos dos cursos da Hashtag Treinamentos. Nele, é possível criar um usuário (assim como excluí-lo), fazer upload de foto de perfil, escolher quais cursos está fazendo, assim como criar e deletar posts.
 
-## Nesse projeto, foram usados:
+# <br>:gear: Nesse projeto, foram usados:
   - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-# Infelizmente, por conta de mudanças na política de preços do Railway, o mesmo não mais oferece um plano gratuito, portanto, o link abaixo não funciona mais
-## Está hospedado de forma gratuita no railway, e está acessível pelo link : https://sitecomflask-production.up.railway.app/
+## <br>:warning: ~Está hospedado de forma gratuita no railway, e está acessível pelo link : https://sitecomflask-production.up.railway.app/~ 
+## Infelizmente, por conta de mudanças na política de preços do Railway, o mesmo não mais oferece um plano gratuito, portanto, o link acima não funciona mais 
 
 
+# <br>:desktop_computer: Preview
 ## Homepage 
 ![Captura de tela 2023-05-16 120322](https://github.com/Sinuelo/sitecomflask/assets/98895433/36159431-893c-49bc-9415-e12ad07501ed) 
 
